@@ -2,6 +2,9 @@
 
 #
 [![Marcell Martini profile views](https://u8views.com/api/v1/github/profiles/1556478/views/day-week-month-total-count.svg)](https://u8views.com/github/marcellmartini)
+
+<!--START_SECTION:activity-->
+
 <!--
 **marcellmartini/marcellmartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
