@@ -1,7 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
-#
+## Views
 [![Marcell Martini profile views](https://u8views.com/api/v1/github/profiles/1556478/views/day-week-month-total-count.svg)](https://u8views.com/github/marcellmartini)
+
+<!-- Markdown -->
+## Smiling is an excellent medicine
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--START_SECTION:activity-->
 
